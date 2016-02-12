@@ -9,11 +9,12 @@
   * stochastic gradient descent: sgd
     * 参考 [Andrew Ng 的 notes](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 * files:
-  * 数据: data.csv
-  * 开发文档: multi-linrg.ipynb
-  * 代码: multi-linrg.py
+  * 数据: `data.csv`
+  * 开发文档: [multi-linrg.ipynb](https://github.com/bambooom/multi-linrg/blob/master/multi-linrg.ipynb)
+  * 代码: [multi-linrg.py](https://github.com/bambooom/multi-linrg/blob/master/multi-linrg.py)
 * Solutions:
-'''
+
+```
 1st method - analytical solution by matrix
 w0 = 2.030762
 w1 = 2.973967
@@ -24,4 +25,4 @@ w0 = 2.030762
 w1 = 2.973971
 w2 = -0.541381
 w3 = 0.971339
-'''
+```
